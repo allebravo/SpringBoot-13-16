@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+    <fullyQualifiedTypeName name="com.promineotech.jeep.controller.support.FetchJeepTestSupport"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest.WebEnvironment"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.server.LocalServerPort"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.promineotech.jeep.entity.Jeep"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.OpenAPIDefinition"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.servers.Server"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.info.Info"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.Operation"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+</qualifiedTypeNameHistroy>
