@@ -1,0 +1,15 @@
+package com.promineotech.jeep.errorhandler;
+
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class globalErrorHandler {
+	@ExceptionHandler(NoSuchElementException.class)
+	public Map<String, Object>NoSuchElementException(){
+
+	}
+
+}
